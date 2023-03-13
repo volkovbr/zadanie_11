@@ -17,7 +17,7 @@ public class TestProduct {
     Book product3 = new Book(3, "стрелок", 120, "стивен кинг");
     Book product4 = new Book(4, "под куполом", 1300, "стивен кинг");
     Book product5 = new Book(5, "белый снег", 1600, "джек лондон");
-    Book product14 = new Book(5, "белый клык", 1600, "джек лондон");
+    Book product14 = new Book(14, "белый клык", 1600, "джек лондон");
     Smartphone product6 = new Smartphone(6, "iphone12", 40_000, "aple");
     Smartphone product7 = new Smartphone(7, "iphone13", 50_000, "aple");
     Smartphone product8 = new Smartphone(8, "galaxi S22", 45_000, "samsung");
